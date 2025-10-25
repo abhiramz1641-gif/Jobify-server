@@ -26,3 +26,6 @@ server.listen(PORT,()=>{
     console.log(`server running in port ${PORT}`);
     
 })
+
+
+//"test": "echo \"Error: no test specified\" && exit 1"
